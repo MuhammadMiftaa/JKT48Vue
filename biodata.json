@@ -1,0 +1,592 @@
+{
+  "type": "table",
+  "name": "biodata",
+  "database": "biodata",
+  "searchByName": "",
+  "searchByAge": "",
+  "searchByGeneration": "",
+  "searchByOrigin": "",
+  "searchByUniversity": "",
+  "data": [
+    {
+      "nama": "Abigail Rachel",
+      "generasi": "12",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2008-08-06",
+      "umur": "15",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/abigail_rachel.jpg?v=20230116"
+    },
+    {
+      "nama": "Adeline Wijaya",
+      "generasi": "12",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2007-09-01",
+      "umur": "16",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/adeline_wijaya.jpg?v=20230116"
+    },
+    {
+      "nama": "Adzana Shaliha",
+      "generasi": "9",
+      "asal": "Tangerang",
+      "tanggal_lahir": "2005-01-08",
+      "umur": "18",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/adzana_shaliha.jpg?v=20230116"
+    },
+    {
+      "nama": "Aisa Maharani",
+      "generasi": "12",
+      "asal": "Medan",
+      "tanggal_lahir": "2006-01-31",
+      "umur": "17",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/aisa_maharani.jpg?v=20230116"
+    },
+    {
+      "nama": "Alya Amanda",
+      "generasi": "11",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2006-08-26",
+      "umur": "17",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/alya_amanda.jpg?v=20230116"
+    },
+    {
+      "nama": "Amanda Sukma",
+      "generasi": "10",
+      "asal": "Bandung",
+      "tanggal_lahir": "2004-12-17",
+      "umur": "19",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/amanda_sukma.jpg?v=20230116"
+    },
+    {
+      "nama": "Angelina Christy",
+      "generasi": "7",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2005-12-05",
+      "umur": "18",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/angelina_christy.jpg?v=20230116"
+    },
+    {
+      "nama": "Anindya Ramadhani",
+      "generasi": "11",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2005-10-18",
+      "umur": "18",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/anindya_ramadhani.jpg?v=20230116"
+    },
+    {
+      "nama": "Aurellia",
+      "generasi": "10",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2002-10-29",
+      "umur": "21",
+      "universitas": "Sekolah Tinggi Ilmu Ekonomi Trisakti",
+      "jurusan": "Akuntansi",
+      "foto": "https://jkt48.com/profile/aurellia.jpg?v=20230116"
+    },
+    {
+      "nama": "Aurhel Alana",
+      "generasi": "12",
+      "asal": "Bekasi",
+      "tanggal_lahir": "2006-09-14",
+      "umur": "17",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/aurhel_alana.jpg?v=20230116"
+    },
+    {
+      "nama": "Azizi Asadel",
+      "generasi": "7",
+      "asal": "Tangerang",
+      "tanggal_lahir": "2004-05-16",
+      "umur": "19",
+      "universitas": "Universitas Terbuka",
+      "jurusan": "Ilmu Komunikasi",
+      "foto": "https://jkt48.com/profile/azizi_asadel.jpg?v=20230116"
+    },
+    {
+      "nama": "Callista Alifia",
+      "generasi": "10",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2005-08-08",
+      "umur": "18",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/callista_alifia.jpg?v=20230116"
+    },
+    {
+      "nama": "Catherina Vallencia",
+      "generasi": "12",
+      "asal": "Bekasi",
+      "tanggal_lahir": "2007-08-21",
+      "umur": "16",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/catherina_vallencia.jpg?v=20230116"
+    },
+    {
+      "nama": "Cathleen Nixie",
+      "generasi": "11",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2009-05-28",
+      "umur": "14",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/cathleen_nixie.jpg?v=20230116"
+    },
+    {
+      "nama": "Celline Thefani",
+      "generasi": "11",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2007-04-09",
+      "umur": "16",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/celline_thefani.jpg?v=20230116"
+    },
+    {
+      "nama": "Chelsea Davina",
+      "generasi": "11",
+      "asal": "Sydney",
+      "tanggal_lahir": "2009-12-23",
+      "umur": "14",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/chelsea_davina.jpg?v=20230116"
+    },
+    {
+      "nama": "Cornelia Vanisa",
+      "generasi": "8",
+      "asal": "Tangerang",
+      "tanggal_lahir": "2002-07-26",
+      "umur": "21",
+      "universitas": "Universitas Pamulang",
+      "jurusan": "Sastra Inggris",
+      "foto": "https://jkt48.com/profile/cornelia_vanisa.jpg?v=20230116"
+    },
+    {
+      "nama": "Cynthia Yaputera",
+      "generasi": "11",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2003-11-22",
+      "umur": "20",
+      "universitas": "Universitas Bina Nusantara",
+      "jurusan": "Desain Interior",
+      "foto": "https://jkt48.com/profile/cynthia_yaputera.jpg?v=20230116"
+    },
+    {
+      "nama": "Dena Natalia",
+      "generasi": "11",
+      "asal": "Bandung",
+      "tanggal_lahir": "2005-12-16",
+      "umur": "18",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/dena_natalia.jpg?v=20230116"
+    },
+    {
+      "nama": "Desy Natalia",
+      "generasi": "11",
+      "asal": "Bandung",
+      "tanggal_lahir": "2005-12-16",
+      "umur": "18",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/desy_natalia.jpg?v=20230116"
+    },
+    {
+      "nama": "Febriola Sinambela",
+      "generasi": "7",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2005-02-26",
+      "umur": "18",
+      "universitas": "Universitas Nasional",
+      "jurusan": "Ilmu Komunikasi",
+      "foto": "https://jkt48.com/profile/febriola_sinambela.jpg?v=20230116"
+    },
+    {
+      "nama": "Feni Fitriyanti",
+      "generasi": "3",
+      "asal": "Cianjur",
+      "tanggal_lahir": "1999-01-16",
+      "umur": "24",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/feni_fitriyanti.jpg?v=20230116"
+    },
+    {
+      "nama": "Fiony Alveria",
+      "generasi": "8",
+      "asal": "Tangerang",
+      "tanggal_lahir": "2002-02-04",
+      "umur": "21",
+      "universitas": "Universitas Pelita Harapan",
+      "jurusan": "Desain Komunikasi Visual",
+      "foto": "https://jkt48.com/profile/fiony_alveria.jpg?v=20230116"
+    },
+    {
+      "nama": "Flora Shafiq",
+      "generasi": "8",
+      "asal": "Tangerang",
+      "tanggal_lahir": "2005-04-04",
+      "umur": "18",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/flora_shafiq.jpg?v=20230116"
+    },
+    {
+      "nama": "Freya Jayawardana",
+      "generasi": "7",
+      "asal": "Tangerang",
+      "tanggal_lahir": "2006-02-13",
+      "umur": "17",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/freya_jayawardana.jpg?v=20230116"
+    },
+    {
+      "nama": "Fritzy Rosmerian",
+      "generasi": "12",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2008-07-28",
+      "umur": "15",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/fritzy_rosmerian.jpg?v=20230116"
+    },
+    {
+      "nama": "Gabriela Abigail",
+      "generasi": "10",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2006-08-07",
+      "umur": "17",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/gabriela_abigail.jpg?v=20230116"
+    },
+    {
+      "nama": "Gendis Mayrannisa",
+      "generasi": "11",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2010-06-23",
+      "umur": "13",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/gendis_mayrannisa.jpg?v=20230116"
+    },
+    {
+      "nama": "Gita Sekar Andarini",
+      "generasi": "6",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2001-06-30",
+      "umur": "22",
+      "universitas": "Universitas Nasional",
+      "jurusan": "Sastra Inggris",
+      "foto": "https://jkt48.com/profile/gita_sekar_andarini.jpg?v=20230116"
+    },
+    {
+      "nama": "Grace Octaviani",
+      "generasi": "11",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2007-10-18",
+      "umur": "16",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/grace_octaviani.jpg?v=20230116"
+    },
+    {
+      "nama": "Greesella Adhalia",
+      "generasi": "11",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2006-01-10",
+      "umur": "17",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/greesella_adhalia.jpg?v=20230116"
+    },
+    {
+      "nama": "Helisma Putri",
+      "generasi": "7",
+      "asal": "Bandung",
+      "tanggal_lahir": "2000-06-15",
+      "umur": "23",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/helisma_putri.jpg?v=20230116"
+    },
+    {
+      "nama": "Hillary Abigail",
+      "generasi": "12",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2007-10-19",
+      "umur": "16",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/hillary_abigail.jpg?v=20230116"
+    },
+    {
+      "nama": "Indah Cahya",
+      "generasi": "9",
+      "asal": "Kerinci",
+      "tanggal_lahir": "2001-03-20",
+      "umur": "22",
+      "universitas": "Universitas Negeri Jakarta",
+      "jurusan": "Pendidikan Bahasa Inggris",
+      "foto": "https://jkt48.com/profile/indah_cahya.jpg?v=20230116"
+    },
+    {
+      "nama": "Indira Seruni",
+      "generasi": "10",
+      "asal": "Bandung",
+      "tanggal_lahir": "2004-04-26",
+      "umur": "19",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/indira_seruni.jpg?v=20230116"
+    },
+    {
+      "nama": "Jazzlyn Trisha",
+      "generasi": "12",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2011-10-16",
+      "umur": "12",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/jazzlyn_trisha.jpg?v=20230116"
+    },
+    {
+      "nama": "Jeane Victoria",
+      "generasi": "11",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2006-06-05",
+      "umur": "17",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/jeane_victoria.jpg?v=20230116"
+    },
+    {
+      "nama": "Jessica Chandra",
+      "generasi": "7",
+      "asal": "Tangerang",
+      "tanggal_lahir": "2005-09-23",
+      "umur": "18",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/jessica_chandra.jpg?v=20230116"
+    },
+    {
+      "nama": "Jesslyn Elly",
+      "generasi": "10",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2001-09-13",
+      "umur": "22",
+      "universitas": "Universitas Pelita Harapan",
+      "jurusan": "Psikologi",
+      "foto": "https://jkt48.com/profile/jesslyn_elly.jpg?v=20230116"
+    },
+    {
+      "nama": "Kathrina Irene",
+      "generasi": "9",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2006-07-26",
+      "umur": "17",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/kathrina_irene.jpg?v=20230116"
+    },
+    {
+      "nama": "Letycia Moreen",
+      "generasi": "12",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2010-06-07",
+      "umur": "13",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/letycia_moreen.jpg?v=20230116"
+    },
+    {
+      "nama": "Lulu Salsabila",
+      "generasi": "8",
+      "asal": "Serang",
+      "tanggal_lahir": "2002-10-23",
+      "umur": "21",
+      "universitas": "Universitas Paramadina",
+      "jurusan": "Ilmu Komunikasi",
+      "foto": "https://jkt48.com/profile/lulu_salsabila.jpg?v=20230116"
+    },
+    {
+      "nama": "Marsha Lenathea",
+      "generasi": "9",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2006-01-09",
+      "umur": "17",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/marsha_lenathea.jpg?v=20230116"
+    },
+    {
+      "nama": "Michelle Alexandra",
+      "generasi": "11",
+      "asal": "Palembang",
+      "tanggal_lahir": "2009-04-22",
+      "umur": "14",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/michelle_alexandra.jpg?v=20230116"
+    },
+    {
+      "nama": "Michelle Levia",
+      "generasi": "12",
+      "asal": "Tangerang",
+      "tanggal_lahir": "2009-01-24",
+      "umur": "14",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/michelle_levia.jpg?v=20230116"
+    },
+    {
+      "nama": "Mutiara Azzahra",
+      "generasi": "7",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2004-06-12",
+      "umur": "19",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/mutiara_azzahra.jpg?v=20230116"
+    },
+    {
+      "nama": "Nayla Suji",
+      "generasi": "12",
+      "asal": "Jepang",
+      "tanggal_lahir": "2007-06-18",
+      "umur": "16",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/nayla_suji.jpg?v=20230116"
+    },
+    {
+      "nama": "Nina Tutachia",
+      "generasi": "12",
+      "asal": "Bali",
+      "tanggal_lahir": "2009-10-16",
+      "umur": "14",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/nina_tutachia.jpg?v=20230116"
+    },
+    {
+      "nama": "Oline Manuel",
+      "generasi": "12",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2007-11-03",
+      "umur": "16",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/oline_manuel.jpg?v=20230116"
+    },
+    {
+      "nama": "Raisha Syifa",
+      "generasi": "10",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2007-11-11",
+      "umur": "16",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/raisha_syifa.jpg?v=20230116"
+    },
+    {
+      "nama": "Regina Wilian",
+      "generasi": "12",
+      "asal": "Surakarta",
+      "tanggal_lahir": "2009-12-10",
+      "umur": "14",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/regina_wilian.jpg?v=20230116"
+    },
+    {
+      "nama": "Reva Fidela",
+      "generasi": "8",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2006-07-14",
+      "umur": "17",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/reva_fidela.jpg?v=20230116"
+    },
+    {
+      "nama": "Ribka Budiman",
+      "generasi": "12",
+      "asal": "Bandung",
+      "tanggal_lahir": "2009-01-13",
+      "umur": "14",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/ribka_budiman.jpg?v=20230116"
+    },
+    {
+      "nama": "Shabilqis Naila",
+      "generasi": "12",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2008-09-01",
+      "umur": "15",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/shabilqis_naila.jpg?v=20230116"
+    },
+    {
+      "nama": "Shani Indira Natio",
+      "generasi": "3",
+      "asal": "Yogyakarta",
+      "tanggal_lahir": "1998-10-05",
+      "umur": "25",
+      "universitas": "Universitas Tarumanegara",
+      "jurusan": "Ilmu Komunikasi",
+      "foto": "https://jkt48.com/profile/shani_indira_natio.jpg?v=20230116"
+    },
+    {
+      "nama": "Shania Gracia",
+      "generasi": "3",
+      "asal": "Jakarta",
+      "tanggal_lahir": "1999-08-31",
+      "umur": "24",
+      "universitas": "Institut Bisnis Dan Informatika Kwik Kian Gie",
+      "jurusan": "Ilmu Komunikasi",
+      "foto": "https://jkt48.com/profile/shania_gracia.jpg?v=20230116"
+    },
+    {
+      "nama": "Victoria Kimberly",
+      "generasi": "12",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2010-03-08",
+      "umur": "13",
+      "universitas": "tidak kuliah",
+      "jurusan": "tidak kuliah",
+      "foto": "https://jkt48.com/profile/victoria_kimberly.jpg?v=20230116"
+    },
+    {
+      "nama": "Yessica Tamara",
+      "generasi": "7",
+      "asal": "Jakarta",
+      "tanggal_lahir": "2002-09-24",
+      "umur": "21",
+      "universitas": "Universitas Nasional",
+      "jurusan": "Manajemen",
+      "foto": "https://jkt48.com/profile/yessica_tamara.jpg?v=20230116"
+    }
+  ]
+}

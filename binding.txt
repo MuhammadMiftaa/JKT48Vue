@@ -1,0 +1,12 @@
+v-bind: Mengikat nilai atribut HTML ke ekspresi Vue.js.
+v-model: Mengikat nilai input atau elemen formulir ke properti data Vue.js.
+v-for: Mengulangi elemen HTML berdasarkan data dalam array atau objek.
+v-if, v-else-if, v-else: Mengontrol renderisasi kondisional elemen HTML.
+v-on: Mendengarkan event dan menjalankan metode atau ekspresi saat event tersebut terjadi.
+v-show: Menunjukkan atau menyembunyikan elemen berdasarkan nilai boolean.
+v-hide: (Tidak ada, biasanya dapat diwakili dengan negasi v-show)
+v-pre: Mencegah Vue.js untuk mengevaluasi atau menginterpolasi konten elemen ini.
+v-cloak: Menghindari flash konten yang tidak diinterpolasi (raw).
+v-once: Memastikan elemen atau komponen hanya dirender sekali.
+v-html: Menetapkan HTML pada elemen, yang dievaluasi dari properti data atau ekspresi.
+v-slot: Mengatur slot pada komponen untuk penanganan slot konten.

@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  transition: 0.8s;
+  background-color: #212529;
+}
+
+body.dark {
+  background-color: #f8f9fa;
+}
+
+.dark-mode:hover {
+  background-color: #dc3545;
+  border-radius: 50%;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.8s;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
